@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="Pipeline: 1 Ingest with Document Intelligence; 2 Extract typed JSON claims; 3 Verify with seven domain agents; 4 Retrieve with hybrid RAG and GraphRAG; 5 Review with a human in the loop">
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="0" y="0" width="224" height="210" rx="22" fill="#CFEFE3"/>
+    <text x="22" y="40" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#164A38">01 · INGEST</text>
+    <text x="22" y="80" font-size="20" font-weight="700" fill="#0F3D2E">Document</text>
+    <text x="22" y="104" font-size="20" font-weight="700" fill="#0F3D2E">Intelligence</text>
+    <text x="22" y="140" font-size="14" fill="#164A38">Text, tables, layout with</text>
+    <text x="22" y="160" font-size="14" fill="#164A38">page-level provenance</text>
+
+    <rect x="244" y="0" width="224" height="210" rx="22" fill="#E4DDF7"/>
+    <text x="266" y="40" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#3B2F7A">02 · EXTRACT</text>
+    <text x="266" y="80" font-size="20" font-weight="700" fill="#241B5C">Typed JSON</text>
+    <text x="266" y="104" font-size="20" font-weight="700" fill="#241B5C">claims</text>
+    <text x="266" y="140" font-size="14" fill="#3B2F7A">Azure OpenAI on</text>
+    <text x="266" y="160" font-size="14" fill="#3B2F7A">Microsoft Foundry</text>
+
+    <rect x="488" y="0" width="224" height="210" rx="22" fill="#D6E8F7"/>
+    <text x="510" y="40" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#173D5E">03 · VERIFY</text>
+    <text x="510" y="80" font-size="20" font-weight="700" fill="#12324F">Seven domain</text>
+    <text x="510" y="104" font-size="20" font-weight="700" fill="#12324F">agents</text>
+    <text x="510" y="140" font-size="14" fill="#173D5E">Deterministic orchestrator,</text>
+    <text x="510" y="160" font-size="14" fill="#173D5E">tools over MCP</text>
+
+    <rect x="732" y="0" width="224" height="210" rx="22" fill="#FCE1D2"/>
+    <text x="754" y="40" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#6B2C16">04 · RETRIEVE</text>
+    <text x="754" y="80" font-size="20" font-weight="700" fill="#5A2310">Hybrid RAG</text>
+    <text x="754" y="104" font-size="20" font-weight="700" fill="#5A2310">+ GraphRAG</text>
+    <text x="754" y="140" font-size="14" fill="#6B2C16">Vector, keyword, semantic</text>
+    <text x="754" y="160" font-size="14" fill="#6B2C16">ranking on Azure AI Search</text>
+
+    <rect x="976" y="0" width="224" height="210" rx="22" fill="#FBF1C7"/>
+    <text x="998" y="40" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#574509">05 · REVIEW</text>
+    <text x="998" y="80" font-size="20" font-weight="700" fill="#4A3A06">Human in</text>
+    <text x="998" y="104" font-size="20" font-weight="700" fill="#4A3A06">the loop</text>
+    <text x="998" y="140" font-size="14" fill="#574509">Analyst decisions stored</text>
+    <text x="998" y="160" font-size="14" fill="#574509">as audit events</text>
+  </g>
+</svg>

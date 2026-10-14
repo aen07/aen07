@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Naveen Nallamothu, AI Engineer. I build LLM systems you can check, not just trust.">
+  <rect x="0" y="0" width="1200" height="320" rx="32" fill="#E4DDF7"/>
+  <g fill="none" stroke="#3B2F7A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.32">
+    <g transform="translate(930 40) rotate(-10 36 36)">
+      <line x1="36" y1="8" x2="36" y2="16"/><circle cx="36" cy="5" r="3"/><rect x="12" y="16" width="48" height="40" rx="12"/><circle cx="27" cy="34" r="4"/><circle cx="45" cy="34" r="4"/><path d="M27 45 q9 7 18 0"/><line x1="6" y1="32" x2="12" y2="32"/><line x1="60" y1="32" x2="66" y2="32"/>
+    </g>
+    <g transform="translate(1070 170) rotate(12 36 36)">
+      <line x1="36" y1="8" x2="36" y2="16"/><circle cx="36" cy="5" r="3"/><rect x="12" y="16" width="48" height="40" rx="12"/><circle cx="27" cy="34" r="4"/><path d="M41 34 h8"/><path d="M27 45 q9 7 18 0"/>
+    </g>
+    <path transform="translate(1100 50)" d="M24 2 C26 18 30 22 46 24 C30 26 26 30 24 46 C22 30 18 26 2 24 C18 22 22 18 24 2Z"/>
+    <path transform="translate(1000 230) scale(0.7)" d="M24 2 C26 18 30 22 46 24 C30 26 26 30 24 46 C22 30 18 26 2 24 C18 22 22 18 24 2Z"/>
+    <g transform="translate(860 150) rotate(-5 70 33)">
+      <rect x="3" y="3" width="150" height="44" rx="22"/><path d="M34 47 l-6 14 l18-14"/>
+      <text x="78" y="31" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#3B2F7A" stroke="none">beep boop</text>
+    </g>
+  </g>
+  <text x="64" y="84" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" letter-spacing="1.5" fill="#3B2F7A">AI ENGINEER · WASHINGTON, DC</text>
+  <text x="64" y="156" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="800" fill="#1E1B3A">Naveen Nallamothu</text>
+  <text x="64" y="210" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#241B5C">I build LLM systems you can check, not just trust.</text>
+  <text x="64" y="256" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#2C2750">Azure OpenAI · Microsoft Foundry · Multi-agent systems · Hybrid RAG · Document AI</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="92% claim-extraction accuracy; 38% lower cost per case; 28% better exact-identifier retrieval; about 12 minutes per case">
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="0" y="0" width="285" height="170" rx="24" fill="#CFEFE3"/>
+    <text x="28" y="74" font-size="52" font-weight="800" fill="#0F3D2E">92%</text>
+    <text x="28" y="112" font-size="16" fill="#164A38">claim-extraction accuracy</text>
+    <text x="28" y="136" font-size="16" fill="#164A38">on 1,200 labelled claims</text>
+
+    <rect x="305" y="0" width="285" height="170" rx="24" fill="#FCE1D2"/>
+    <text x="333" y="74" font-size="52" font-weight="800" fill="#5A2310">38%</text>
+    <text x="333" y="112" font-size="16" fill="#6B2C16">lower cost per case</text>
+    <text x="333" y="136" font-size="16" fill="#6B2C16">through model tiering</text>
+
+    <rect x="610" y="0" width="285" height="170" rx="24" fill="#D6E8F7"/>
+    <text x="638" y="74" font-size="52" font-weight="800" fill="#12324F">28%</text>
+    <text x="638" y="112" font-size="16" fill="#173D5E">better exact-identifier</text>
+    <text x="638" y="136" font-size="16" fill="#173D5E">retrieval vs vector-only</text>
+
+    <rect x="915" y="0" width="285" height="170" rx="24" fill="#FBF1C7"/>
+    <text x="943" y="74" font-size="52" font-weight="800" fill="#4A3A06">~12 min</text>
+    <text x="943" y="112" font-size="16" fill="#574509">per case: ~25 documents,</text>
+    <text x="943" y="136" font-size="16" fill="#574509">~350 claims verified</text>
+  </g>
+</svg>
